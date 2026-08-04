@@ -38,7 +38,14 @@ cấp bách. Vấn đề lớn nhất chính là sự đơn giản và chi phí 
        [ cen.ship.ai ]'s Solution
 -----------------------------------------
 
-
+Building a simple solution at a reasonable cost is a thorny issue,
+very difficult to solve in a short time. [cen.ship.ai] does not aim
+to solve this problem completely in the short term; instead,
+[cen.ship.ai] gradually refines the solution, similar to the Agile
+process in software development. After each cycle, the solution
+becomes simpler and less expensive. Continuing in this way, after
+a certain number of cycles, [cen.ship.ai]'s solution will be simple
+enough and cost-effective for practical application in businesses.
 
 ----- Vietnamese -----
 
