@@ -61,4 +61,15 @@ hợp lý thích hợp cho việc áp dụng vào thực tế của doanh nghi�
 ----------------------
 
 
+-------------------------|_|-------------
+       [ cen.ship.ai ]'s Roadmap
+-----------------------------------------
+
++ 2026.08.22: [ cen.ship.ai ] Starter A
+
+  o A starter solution to build basic skeleton of system
+  o An easy customizable router to access AI models (via OpenRouter.ai)
+  o A simple and easy customizable output filters for AI models
+
+
 ```
