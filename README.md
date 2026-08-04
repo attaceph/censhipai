@@ -40,4 +40,18 @@ cấp bách. Vấn đề lớn nhất chính là sự đơn giản và chi phí 
 
 
 
+----- Vietnamese -----
+
+Xây dựng giải pháp đơn giản với chi phí phù hợp là vấn đề hóc búa,
+rất khó giải quyết trong thời gian ngắn. [ cen.ship.ai ] không có
+tham vọng giải quyết tận gốc vấn đề này trong thời gian ngắn, thay
+vào đó [ cen.ship.ai ] làm mịn dần giải pháp như quy trình Agile
+trong phát triển phần mềm. Sau mỗi chu trình, giải pháp sẽ đơn giản
+hơn với chi phí thấp hơn. Cứ tiếp tục như thế, sau một số chu trình
+nhất định, giải pháp của [ cen.ship.ai ] sẽ đủ đơn giản với chi phí
+hợp lý thích hợp cho việc áp dụng vào thực tế của doanh nghiệp.
+
+----------------------
+
+
 ```
